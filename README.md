@@ -12,7 +12,7 @@ The purpose of the discipline is to develop students' knowledge and skills to ex
 Целью дисциплины является формирование у обучающихся знаний и умений для извлечения закономерностей из данных методами машинного обучения без учителя. Средства реализации: язык программирования [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), библиотеки [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn), [Gensim](https://en.wikipedia.org/wiki/Gensim), [BigARTM](http://www.machinelearning.ru/wiki/index.php?title=BigARTM).
 
 <br><br>
-<br>Список лабораторных работ:<b>
+<br>Список лабораторных работ:</b>
 * [Лаб.01 К-means](https://github.com/emjeepro/Unsupervised-machine-learning/blob/main/lab_01.ipynb): Задача кластеризации
 * [Лаб.02 K-means датасет](https://github.com/emjeepro/Unsupervised-machine-learning/blob/main/lab_02.ipynb): Кластеризация методом K-means
 * [Лаб.03 EM-алгоритм](https://github.com/emjeepro/Unsupervised-machine-learning/blob/main/lab_03.ipynb): Кластеризация ЕМ-методом
