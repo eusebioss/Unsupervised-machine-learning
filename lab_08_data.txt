@@ -1,6 +1,0 @@
-download links
-
-lab_08_X_test
-lab_08_X_train
-lab_08_y_test
-lab_08_y_train
